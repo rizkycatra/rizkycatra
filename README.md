@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rizkycatra
-- 👀 I’m interested in Automated Test and Java Script
+- 👀 QA Engineer
 - 🌱 I’m currently learning Java Script and Automated Test
 
 <!---
